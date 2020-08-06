@@ -6,3 +6,16 @@
 body {
   padding: 20px;
 }
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.text_blue {
+  color: lightblue;
+}
+.text_pink {
+  color: pink;
+}
+.text_uppercase {
+  text-transform: uppercase;
+}
